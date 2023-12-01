@@ -14,7 +14,7 @@
      \___/           \_____\___/ \__,_|\___| |____|\___/____|____| 
 ```
 
-**Day 1:** 🎄 [Calorie Counting]()<br>
+**Day 1:** 🎄 [Calorie Counting](https://github.com/mzlodi/AdventOfCode2022/tree/master/CalorieCounting)<br>
 **Day 2:** 🎅 [Rock Paper Scissors]()<br>
 **Day 3:** 🎁 [Rucksack Reorganization]()<br>
 **Day 4:** 🌟 [Camp Cleanup]()<br>
